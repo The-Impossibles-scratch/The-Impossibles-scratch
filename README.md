@@ -8,7 +8,7 @@ I am a self-taught person who publishes various programming projects.
 
 ★Sub Info  
 country : Jp  
-old : 14 y/o 
+old : 14 y/o  
 birthday : 4/1  
 
 # Scratch Info
