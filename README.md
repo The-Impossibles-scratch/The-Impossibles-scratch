@@ -12,7 +12,8 @@ old : 14 y/o
 birthday : 4/1  
 
 # Scratch Info
-Link : 
+Link (main account) : [@The_Impossibles (Scratch link)](https://scratch.mit.edu/users/The_Impossibles)  
+Link (bot account) : [@The_Impossibles-sys (Scratch link)](https://scratch.mit.edu/users/The_Impossibles-sys)  
 //indefinite retirement\\
 
 # Other
